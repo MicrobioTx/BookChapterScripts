@@ -1,0 +1,14 @@
+Microbial Abundaces Abnormally Low :
+data frame with 0 columns and 1 row
+
+Microbial Abundaces Abnormally High :
+                       Flavonifractor Enterococcus Veillonella Lactobacillus Klebsiella
+Validation.UMCG8089650       8.770855     19.95911    21.44172      478.3988   690.0176
+
+Beneficial Microbes :
+character(0)
+[1] "Lactobacillus" "Veillonella"   "Enterococcus" 
+
+Harmful Microbes :
+character(0)
+[1] "Klebsiella"

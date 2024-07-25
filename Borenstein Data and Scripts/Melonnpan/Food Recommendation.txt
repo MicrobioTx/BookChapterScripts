@@ -1,0 +1,8 @@
+Add these foods to your diet :
+character(0)
+[1] "Whole grains (e.g., Oats, Brown rice), Fruits (e.g., Apples, Berries), Vegetables (e.g., Broccoli, Spinach)"
+
+Limit these foods from your diet :
+character(0)
+[1] "Plant-based foods like Vegetables, Fruits, Legumes, Nuts, Seeds"
+[2] "Fast food diet. Standard American diet (SAD)."                  

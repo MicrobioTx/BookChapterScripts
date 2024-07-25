@@ -1,0 +1,12 @@
+Add these foods to your diet :
+character(0)
+[1] "Broccoli florets, Broccoli stalks, Broccoli sprouts"                                                        
+[2] "Whole grains (e.g., Oats, Brown rice), Fruits (e.g., Apples, Berries), Vegetables (e.g., Broccoli, Spinach)"
+[3] "Foods containing Quercetin such as Onions, Green tea, Broccoli, Kale, Red apples"                           
+
+Limit these foods from your diet :
+character(0)
+[1] "Greek yogurt, Plain yogurt, Skyr, Kefir"                                                                                                
+[2] "Inulin supplements and natural food sources such as Asparagus, chicory, Jerusalem artichokes, garlic, onions, wheat, oats, and soybeans"
+[3] "Plant-based foods like Vegetables, Fruits, Legumes, Nuts, Seeds"                                                                        
+[4] "Fast food diet. Standard American diet (SAD)."                                                                                          
