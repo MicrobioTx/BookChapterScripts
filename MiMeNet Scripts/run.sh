@@ -1,0 +1,1 @@
+python MiMeNet_train_Borenstein.py -micro data/microbes_franzosa_IBD_2019_cr.csv -metab data/metabolites_franzosa_IBD_2019.csv -micro_norm None -metab_norm RA -num_run_cv 10 -num_background 20 -output Franzosa -num_run 5
