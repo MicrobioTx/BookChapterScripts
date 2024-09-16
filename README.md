@@ -1,10 +1,10 @@
-Folder 1. Borenstein Data and Scripts
+Folder 1. Data and Scripts
 
 Both the sub folders - MiMeNet and Melonnpan have the same data and the same scripts. Only the file Predicted_Microb_franzosa.csv is changed in each folder. This file is the predicted microbe abundance by the respective model (MiMeNet/ Melonnpan).
 
 The scripts -
 
-1. BorensteinData.R
+1. Data.R
     Script to retrieve the franzosa dataset and metadata from the Borenstein Data repository
 
 2. Melonnpan/Downstream_analysis.R
